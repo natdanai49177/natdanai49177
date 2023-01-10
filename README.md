@@ -1,4 +1,3 @@
-# take_ama
 
 A new Flutter project.
 
